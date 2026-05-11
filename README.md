@@ -18,6 +18,8 @@ ETL Pipelines: Extracting, transforming, and loading data from source systems in
 Data Modeling: Developing fact and dimension tables optimized for analytical queries.
 Analytics & Reporting: Creating SQL-based reports and dashboards for actionable insights.
 🎯 This repository is an excellent resource for professionals and students looking to showcase expertise in:
+<img width="693" height="820" alt="image" src="https://github.com/user-attachments/assets/08087127-a330-42cb-9aff-d3ced87b6a26" />
+
 
 SQL Development
 Data Architect
